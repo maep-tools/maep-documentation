@@ -28,8 +28,7 @@ To install MAEP it is necessary to have the following technical elements:
 - 2 GB hard drive.
 
 ### Screenshots
-
-Dashboard screen
+#### Dashboard
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
 
 
