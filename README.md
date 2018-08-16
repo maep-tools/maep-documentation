@@ -1,6 +1,6 @@
 
 <p align="center">
-![Logo](https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg#center)
+    <img width="460" height="300" src="https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg">
 </p>
 MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.  
 MAEP web is a tool for manage the models of MAEP.
