@@ -14,7 +14,7 @@ In this document you can see the screenshots of the UI.
 | Modules | Description | Repository |
 |--|--|--|
 | MAEP  |Models in python for Analysis|https://github.com/maep-tools/model-maep|
-| FRONTEND  |User interface of the interface application|https://github.com/maep-tools/frontend|
+| FRONTEND  |User interface of the interface application.|https://github.com/maep-tools/frontend|
 | BACKEND  |Backend API for MAEP process management.|https://github.com/maep-tools/backend|
 
 ### Installation
