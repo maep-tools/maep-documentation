@@ -49,6 +49,9 @@ You can upload the inputs of MAEP from the UI and the system send you a email wh
 We design a custom user interface for learn how to use MAEP
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
 
+hundreds of configuration variables categorized.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
+
 
 #### Email notification
 The system send a notification to the user email address when the model is processed.
