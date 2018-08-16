@@ -43,7 +43,15 @@ We would like to extend our thanks to the following sponsors for helping fund on
 -   Cornell University
 -   ISAGEN
 -   CEIBA
-	
+
+
+### TODO
+-   Translate UI
+-   Improve docs
+-   Optimize models
+-   Add tests cases
+
+
 License
 ----
 MIT
