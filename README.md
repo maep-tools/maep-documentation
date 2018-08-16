@@ -4,7 +4,7 @@
 </p>
 MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.
 
-Maep is a tool written in python 3 and it's very easy to setup.  
+MAEP is a tool written in python 3 and it's very easy to setup.  
 You only need a few python libraries and gurobi installed in your computer.<br>
 
 If you need a user interface for understand the model you can install the full solution.
