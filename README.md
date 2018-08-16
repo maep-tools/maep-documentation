@@ -22,10 +22,10 @@ If you need a user interface for understand the model you can install the full s
 ### Installation
 To install MAEP it is necessary to have the following technical elements:
 
-Internet connection (It is necessary to download packages)
-Server ubuntu 16.04 or higher.
-Minimum 512 GB of RAM.
-2 GB hard drive.
+- Internet connection (It is necessary to download packages)
+- Server ubuntu 16.04 or higher.
+- Minimum 512 GB of RAM.
+- 2 GB hard drive.
 
 
 ### MAEP Sponsors
