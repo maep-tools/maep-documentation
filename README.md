@@ -69,6 +69,14 @@ You can configure the results page. Maybe you want to see a list of charts.
 Maybe you only need serve the output. 
 ![Results2](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/results2.png)
 
+#### Administration
+
+The admin can see the status of all models.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/admin.png)
+
+The admin can see all models and monitor the system
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/logs.png)
+
 
 
 ### MAEP Sponsors
