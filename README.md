@@ -1,7 +1,7 @@
 
-
-![Logo](https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg#center)
-
+<p align="center">
+    ![Logo](https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg#center)
+</p>
 MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.  
 MAEP web is a tool for manage the models of MAEP.
 
@@ -11,10 +11,6 @@ Maep is a tool written in python 3 and it's very easy to setup.
 You only need a few python libraries and gurobi installed in your computer.
 If you need a user interface for understand the model you can install the full solution.
 
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 
 # MAEP Modules
 
