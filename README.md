@@ -30,7 +30,7 @@ To install MAEP it is necessary to have the following technical elements:
 ### Screenshots
 
 Dashboard screen
-![Dashboard](https://maep-tools.github.io/maep_documentation/screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
 
 
 
