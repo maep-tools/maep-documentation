@@ -70,7 +70,7 @@ We would like to extend our thanks to the following sponsors for helping fund on
 
 
 ### Future Work
--   Translate UI
+-   internationalize
 -   Improve docs
 -   Optimize models
 -   Add tests cases
