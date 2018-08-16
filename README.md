@@ -2,13 +2,20 @@
 
 ![Image of Yaktocat](https://maep-tools.github.io/landing-maep/assets/img/theme/Vector.svg)
 
-MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.
+MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.  
 MAEP web is a tool for manage the models of MAEP.
 
 You can use only the python models for the analysis or if you need this model in your systems.
-Maep is a tool written in python 3 and it´s very easy to setup. You only need a few python libraries and gurobi installed in your computer.
 
+Maep is a tool written in python 3 and it's very easy to setup.  
+You only need a few python libraries and gurobi installed in your computer.
+If you need a user interface for understand the model you can install the full solution.
 
+| Modules | Description | Repository |
+|--|--|--|
+| MAEP  |Models in python for Analysis||
+| FRONTEND  |User interface of the application||
+| BACKEND  |Backend API for MAEP process management.||
 
 # New Features!
 
