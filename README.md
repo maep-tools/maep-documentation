@@ -58,6 +58,9 @@ The system send a notification to the user email address when the model is proce
 You can close the window. And the model will finish in the background.
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/loading.png)
 
+#### Input Validation Screen
+You can see if your model is ready to run.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/validation.png)
 
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
