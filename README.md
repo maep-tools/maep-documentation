@@ -59,7 +59,7 @@ You can close the window. And the model will finish in the background.
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/loading.png)
 
 Check your email address later.
-![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/queue2.png)
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/queue1.png)
 
 #### Input Validation Screen
 You can see if your model is ready to run.
