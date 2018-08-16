@@ -1,6 +1,6 @@
 
 
-![Image of Yaktocat](https://maep-tools.github.io/landing-maep/assets/img/theme/Vector.svg)
+![Logo](https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg)
 
 MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.  
 MAEP web is a tool for manage the models of MAEP.
