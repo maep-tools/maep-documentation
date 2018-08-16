@@ -45,7 +45,7 @@ We would like to extend our thanks to the following sponsors for helping fund on
 -   CEIBA
 
 
-### TODO
+### Future Work
 -   Translate UI
 -   Improve docs
 -   Optimize models
