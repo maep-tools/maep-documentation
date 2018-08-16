@@ -27,6 +27,22 @@ To install MAEP it is necessary to have the following technical elements:
 - Minimum 512 GB of RAM.
 - 2 GB hard drive.
 
+### Screenshots
+#### Dashboard
+You can see the status of the model in this page. The users can create models in the application only using a web browser.
+Is perfect if you are a basic user. 
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
+
+
+#### User management
+The administrator can see the users registered in the system. You can configure a lot of roles.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/users.png)
+
+
+#### Excel Upload
+You can upload the inputs of MAEP from the UI and the system send you a email when the process finish.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/users.png)
+
 
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
@@ -36,7 +52,15 @@ We would like to extend our thanks to the following sponsors for helping fund on
 -   Cornell University
 -   ISAGEN
 -   CEIBA
-	
+
+
+### Future Work
+-   Translate UI
+-   Improve docs
+-   Optimize models
+-   Add tests cases
+
+
 License
 ----
 MIT
