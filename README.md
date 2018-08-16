@@ -35,9 +35,13 @@ Is perfect if you are a basic user.
 
 
 #### User management
-The administrator can see the users registered in the system.
-![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
+The administrator can see the users registered in the system. You can configure a lot of roles.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/users.png)
 
+
+#### Excel Upload
+You can upload the inputs of MAEP from the UI and the system send you a email when the process finish.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/users.png)
 
 
 ### MAEP Sponsors
