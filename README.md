@@ -29,6 +29,8 @@ To install MAEP it is necessary to have the following technical elements:
 
 ### Screenshots
 #### Dashboard
+You can see the status of the model in this page. The users can create models in the application only using a web browser.
+Is perfect if you are a basic user. 
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
 
 
