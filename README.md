@@ -77,12 +77,13 @@ The admin can see the status of all models.
 The admin can see all models and monitor the system
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/logs.png)
 
-
-
 #### Privileges
 The admin can config the privileges of the users.
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/privileges.png)
 
+#### Privileges
+The admin can customize the web application hierarchy.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/categories.png)
 
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
