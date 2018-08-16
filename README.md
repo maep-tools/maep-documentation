@@ -42,7 +42,12 @@ The administrator can see the users registered in the system. You can configure 
 
 #### Excel Upload
 You can upload the inputs of MAEP from the UI and the system send you a email when the process finish.
-![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/users.png)
+![Excel](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/excel.png)
+
+
+#### User Interface for learn the inputs of MAEP
+We design a custom user interface for learn how to use MAEP
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
 
 
 ### MAEP Sponsors
