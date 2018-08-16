@@ -2,14 +2,11 @@
 <p align="center">
     <img width="460" height="300" src="https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg">
 </p>
-MAEP is a collection of tools for electrical engineers for analysis and electrical planning model.  
-MAEP web is a tool for manage the models of MAEP.
+MAEP is a collection of tools for electrical engineers for analysis and electrical planning models. MAEP is a tool written in python 3 and it's very easy to setup.  You only need a few python libraries and gurobi installed in your computer.
 
-You can use only the python models for the analysis or if you need this model in your systems.
-
-Maep is a tool written in python 3 and it's very easy to setup.  
-You only need a few python libraries and gurobi installed in your computer.
 If you need a user interface for understand the model you can install the full solution.
+In this document you can see the screenshots of the UI.
+
 
 
 # MAEP Modules
@@ -17,8 +14,8 @@ If you need a user interface for understand the model you can install the full s
 | Modules | Description | Repository |
 |--|--|--|
 | MAEP  |Models in python for Analysis|https://github.com/maep-tools/model-maep|
-| FRONTEND  |User interface of the application|https://github.com/maep-tools/frontend|
-| BACKEND  |Backend API build using Laravel for MAEP process management.|https://github.com/maep-tools/backend|
+| FRONTEND  |User interface of the interface application.|https://github.com/maep-tools/frontend|
+| BACKEND  |Backend API for MAEP process management.|https://github.com/maep-tools/backend|
 
 ### Installation
 To install MAEP it is necessary to have the following technical elements:
@@ -48,6 +45,9 @@ You can upload the inputs of MAEP from the UI and the system send you a email wh
 #### User Interface for learn the inputs of MAEP
 We design a custom user interface for learn how to use MAEP
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
+
+hundreds of configuration variables categorized.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/form.png)
 
 
 #### Email notification
