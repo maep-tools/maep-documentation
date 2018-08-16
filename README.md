@@ -79,6 +79,11 @@ The admin can see all models and monitor the system
 
 
 
+#### Privileges
+The admin can config the privileges of the users.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/privileges.png)
+
+
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
 
