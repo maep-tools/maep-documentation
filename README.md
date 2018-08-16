@@ -50,7 +50,7 @@ We design a custom user interface for learn how to use MAEP
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
 
 hundreds of configuration variables categorized.
-![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/form.png)
 
 
 #### Email notification
