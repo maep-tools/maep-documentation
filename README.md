@@ -62,6 +62,15 @@ You can close the window. And the model will finish in the background.
 You can see if your model is ready to run.
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/validation.png)
 
+#### Results
+You can configure the results page. Maybe you want to see a list of charts.
+![Results1](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/results.png)
+
+Maybe you only need serve the output. 
+![Results2](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/results2.png)
+
+
+
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
 
