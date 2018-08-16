@@ -34,6 +34,11 @@ Is perfect if you are a basic user.
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
 
 
+#### User management
+The administrator can see the users registered in the system.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/dashboard.png)
+
+
 
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
