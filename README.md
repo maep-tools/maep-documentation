@@ -50,6 +50,15 @@ We design a custom user interface for learn how to use MAEP
 ![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/demand.png)
 
 
+#### Email notification
+The system send a notification to the user email address when the model is processed.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/email.png)
+
+#### Queue system
+You can close the window. And the model will finish in the background.
+![Dashboard](https://raw.githubusercontent.com/maep-tools/maep-documentation/master/screenshots/loading.png)
+
+
 ### MAEP Sponsors
 We would like to extend our thanks to the following sponsors for helping fund on-going MAEP development. If you are interested in becoming a sponsor, please get in touch.
 
