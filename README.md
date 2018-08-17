@@ -11,13 +11,14 @@ In this document you can see the screenshots of the UI.
 
 # MAEP Modules
 
+### Installation
+
 | Modules | Description | Repository |
 |--|--|--|
 | MAEP  |Models in python for Analysis|https://github.com/maep-tools/model-maep|
 | FRONTEND  |User interface of the interface application.|https://github.com/maep-tools/frontend|
 | BACKEND  |Backend API for MAEP process management.|https://github.com/maep-tools/backend|
 
-### Installation
 To install MAEP it is necessary to have the following technical elements:
 
 - Internet connection (It is necessary to download packages)
