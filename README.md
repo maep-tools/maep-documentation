@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="460" height="300" src="https://maep-tools.github.io/landing-page/assets/img/theme/Vector.svg">
+    <img width="230" height="150" src="https://maep-tools.github.io/interface-landingpage/assets/img/theme/Vector.svg">
 </p>
 MAEP is a collection of tools for electrical engineers for analysis and electrical planning models. MAEP is a tool written in python 3 and it's very easy to setup.  You only need a few python libraries and gurobi installed in your computer.
 
