@@ -39,8 +39,10 @@ Ing. David Pi\~neros.
 Ing. Santiago Blanco.
 
 - Universidad del Rosario: Faculty of Natural Sciences and Mathematics.
-    PhD. Juan Fernando P\'erez. Associate Professor in the Department of Applied Mathematics and Computer Science.
+
+PhD. Juan Fernando P\'erez. Associate Professor in the Department of Applied Mathematics and Computer Science.
 - Cornell University: Department of Biological and Environmental Engineering.
+
     PhD. C. Lindsay Anderson. Associated professor, Department of Biological and Environmental Engineering. AndersonLab Research Group.
 
 - Laurentian University: Department of Finance and Operations.  
