@@ -34,17 +34,21 @@ This tool was developed by the Universidad de los Andes and has been supported a
    - PhD. Ángela Cadena. Associate Professor in the Department of Electrical and Electronic Engineering. Research Group in Environment and Economy.
    - PhD. Nicanor Quijano. Titular Professor in the Department of Electrical and Electronic Engineering. Research Group in Production Automation.
    - Students: 
-     - PhD. Candidate, Jos\'e Morillo. - MSc. Ang\'elica Pedraza. - Ing. David Pi\~neros. - Ing. Santiago Blanco.
+     - PhD. Candidate, José Morillo. 
+     - MSc. Angélica Pedraza. 
+     - Ing. David Piñeros. 
+     - Ing. Santiago Blanco.
 
 - Universidad del Rosario: Faculty of Natural Sciences and Mathematics.
 
-PhD. Juan Fernando P\'erez. Associate Professor in the Department of Applied Mathematics and Computer Science.
+  - PhD. Juan Fernando P\'erez. Associate Professor in the Department of Applied Mathematics and Computer Science.
+
 - Cornell University: Department of Biological and Environmental Engineering.
 
-    PhD. C. Lindsay Anderson. Associated professor, Department of Biological and Environmental Engineering. AndersonLab Research Group.
+   - PhD. C. Lindsay Anderson. Associated professor, Department of Biological and Environmental Engineering. AndersonLab Research Group.
 
 - Laurentian University: Department of Finance and Operations.  
-    PhD. Luckny Zéphyr. Assistant Professor in the Department of Finance and Operations.
+   - PhD. Luckny Zéphyr. Assistant Professor in the Department of Finance and Operations.
  
 - ISAGEN: Specific agreement No. 2. Interinstitutional framework agreement No. 47/353.
 	
