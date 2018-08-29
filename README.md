@@ -9,7 +9,7 @@ MAEP is a collection of tools for operation planning of power systems.
 MAEP web interface is a tool for manage the optimization models of MAEP. This tool is an open-source application of free access through a web environment.
 
 
-## MAEP Modules
+### MAEP Modules
 
 ### Installation
 
@@ -26,17 +26,13 @@ To install MAEP it is necessary to have the following technical requirements:
 - Minimum 512 GB of RAM.
 - Minimum 2 GB hard drive.
 
+### Team
 
-Este software es una aplicación de código abierto y libre acceso a través de plataforma web, para ofrecerle al usuario una herramienta para el planeamiento de la operación de sistemas hidrotérmicos y con integración de fuentes renovables.
+This software was developed by the Universidad de los Andes and has been supported and funded in part by the institutions mentioned below.
 
-MAEP emplea PYTHON como lenguaje de programación principal, y le da al usuario la posibilidad de interactuar con el código fuente y acceder a bibliotecas de código abierto para el desarrollo de futuras funcionalidades.
-
-\frame{
-Este software fue desarrollado por la Universidad de los Andes y ha sido soportado y financiado en parte por las instituciones mencionadas a continuación.
-\begin{enumerate}
-	\item \textbf{Universidad de los Andes}
-    \begin{itemize}
-        \item{PhD Ángela Cadena. \\ Profesora asociada en el Departamento de Ingeniería Eléctrica y Electrónica. Directora del grupo de investigación EAE.}
+- Universidad de los Andes
+    -- PhD Ángela Cadena. Profesora asociada en el Departamento de Ingeniería Eléctrica y Electrónica. Directora del grupo de investigación EAE.
+    
 	\item{PhD Nicanor Quijano. \\ Profesor titular en el Departamento de Ingeniería Eléctrica y Electrónica. Director del grupo de investigación GIAP.}
         \item{Grupo de trabajo}:
         \begin{itemize}
