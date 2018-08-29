@@ -34,10 +34,7 @@ This tool was developed by the Universidad de los Andes and has been supported a
    - PhD. Ángela Cadena. Associate Professor in the Department of Electrical and Electronic Engineering. Research Group in Environment and Economy.
    - PhD. Nicanor Quijano. Titular Professor in the Department of Electrical and Electronic Engineering. Research Group in Production Automation.
    - Students: 
-        - PhD. Candidate, Jos\'e Morillo.
-	- MSc. Ang\'elica Pedraza.
-	- Ing. David Pi\~neros.
-	- Ing. Santiago Blanco.
+     - PhD. Candidate, Jos\'e Morillo. - MSc. Ang\'elica Pedraza. - Ing. David Pi\~neros. - Ing. Santiago Blanco.
 
 - Universidad del Rosario: Faculty of Natural Sciences and Mathematics.
 
