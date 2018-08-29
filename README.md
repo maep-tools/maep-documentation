@@ -1,12 +1,19 @@
 
 <p align="center">
-    <img width="230" height="150" src="https://maep-tools.github.io/interface-landingpage/assets/img/theme/Vector.svg">
+    <img width="86.5" height="113.7" src="https://maep-tools.github.io/interface-landingpage/assets/img/theme/Recurso 16@2x-8.png">
 </p>
+
+MAEP is a collection of tools for operation planning of power systems.  
+MAEP web interface is a tool for manage the optimization models of MAEP. This tool is an open-source application of free access through a web environment.
+
+### Model
+Operation planning model to the operation of hydro-thermal power systems.
+
+
 MAEP is a collection of tools for electrical engineers for analysis and electrical planning models. MAEP is a tool written in python 3 and it's very easy to setup.  You only need a few python libraries and gurobi installed in your computer.
 
 If you need a user interface for understand the model you can install the full solution.
 In this document you can see the screenshots of the UI.
-
 
 
 # MAEP Modules
