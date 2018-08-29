@@ -41,7 +41,7 @@ This tool was developed by the Universidad de los Andes and has been supported a
 
 - Universidad del Rosario: Faculty of Natural Sciences and Mathematics.
 
-  - PhD. Juan Fernando P\'erez. Associate Professor in the Department of Applied Mathematics and Computer Science.
+  - PhD. Juan Fernando Pérez. Associate Professor in the Department of Applied Mathematics and Computer Science.
 
 - Cornell University: Department of Biological and Environmental Engineering.
 
