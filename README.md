@@ -31,13 +31,13 @@ To install MAEP it is necessary to have the following technical requirements:
 This tool was developed by the Universidad de los Andes and has been supported and funded in part by the institutions mentioned below.
 
 - Universidad de los Andes
-   PhD. Ángela Cadena. Associate Professor in the Department of Electrical and Electronic Engineering. Research Group in Environment and Economy.
-  
-  PhD. Nicanor Quijano. Titular Professor in the Department of Electrical and Electronic Engineering. Research Group in Production Automation.
-Students: PhD. Candidate, Jos\'e Morillo.
-MSc. Ang\'elica Pedraza.
-Ing. David Pi\~neros.
-Ing. Santiago Blanco.
+   - PhD. Ángela Cadena. Associate Professor in the Department of Electrical and Electronic Engineering. Research Group in Environment and Economy.
+   - PhD. Nicanor Quijano. Titular Professor in the Department of Electrical and Electronic Engineering. Research Group in Production Automation.
+   - Students: 
+        - PhD. Candidate, Jos\'e Morillo.
+	- MSc. Ang\'elica Pedraza.
+	- Ing. David Pi\~neros.
+	- Ing. Santiago Blanco.
 
 - Universidad del Rosario: Faculty of Natural Sciences and Mathematics.
 
